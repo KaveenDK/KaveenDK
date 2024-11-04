@@ -1,75 +1,84 @@
-<h1 align="center">Hi, I'm Dimantha KaveeN 👋</h1>
-<h3 align="center">Aspiring Game Developer | Java Enthusiast | Undergraduate at IJSE</h3>
-
----
+<h1 align="center">Hi, I'm Dimantha Kaveen (KaviYa) 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaveendk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KaveenDK?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/twitter/follow/kaveen_69?logo=twitter&style=flat-square" alt="Twitter Follow" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&lines=Java+Developer;Game+Developer;Passionate+Programmer" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/KaveenDK"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dimantha-kaveen-a843092b5/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/27063258/kaveen-dk-kaviya"><img src="/path/to/updated-stackoverflow-logo.png" width="30" height="30"></a>
+  <a href="https://www.youtube.com/@KaviYa_69"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://x.com/kaveen_69"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/kaveen_dk/profilecard/?igsh=aGh5c2FpdXozbHNv"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.behance.net/dimanthakaveen"><img src="https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **[TicTacToe Game](https://github.com/KaveenDK/TicTacToeGame.git)**, **[AgriCraftPro](https://github.com/KaveenDK/AgriCraftPro.git)**, and **SuperMarketFX**
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **TicTacToe Game**, **AgriCraftPro**, and **SuperMarketFX**
 - 🌱 I’m currently learning **Java**
-- 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/KaveenDK)**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/KaveenDK)
 - 💬 Ask me about **Java**
-- 📫 How to reach me: **dtkaviya1002@gmail.com**
+- 📫 Reach me at **dtkaviya1002@gmail.com**
 - ⚡ Fun fact: **KaviYa**
 
 ---
 
-## 🌐 Connect with Me
+### 🛠️ Languages and Tools:
+
 <p align="center">
-  <a href="https://github.com/KaveenDK"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/dimantha-kaveen-a843092b5"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
-  <a href="https://x.com/kaveen_69"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61550196402141"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" /></a>
-  <a href="https://www.youtube.com/@KaviYa_69"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
-  <a href="https://www.hackerrank.com/profile/lab302astcipher"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" /></a>
-  <a href="https://leetcode.com/u/KaveenDK/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
-  <a href="https://discord.gg/a89fFSSpzy"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" /></a>
-  <a href="https://stackoverflow.com/users/27063258/kaveen-dk-kaviya"><img src="https://img.icons8.com/color/48/000000/stack-overflow.png" alt="Stack Overflow" /></a>
-  <a href="https://instagram.com/kaveen_dk/profilecard/?igsh=aGh5c2FpdXozbHNv"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" /></a>
-  <a href="https://www.behance.net/dimanthakaveen"><img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" /></a>
+  <img src="/path/to/blender-icon.png" alt="Blender" width="40" height="40"/>
+  <img src="/path/to/css-icon.png" alt="CSS3" width="40" height="40"/>
+  <img src="/path/to/figma-icon.png" alt="Figma" width="40" height="40"/>
+  <img src="/path/to/git-icon.png" alt="Git" width="40" height="40"/>
+  <img src="/path/to/html-icon.png" alt="HTML5" width="40" height="40"/>
+  <img src="/path/to/ai-icon.png" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="/path/to/java-icon.png" alt="Java" width="40" height="40"/>
+  <img src="/path/to/linux-icon.png" alt="Linux" width="40" height="40"/>
+  <img src="/path/to/mongodb-icon.png" alt="MongoDB" width="40" height="40"/>
+  <img src="/path/to/mysql-icon.png" alt="MySQL" width="40" height="40"/>
+  <img src="/path/to/nodejs-icon.png" alt="Node.js" width="40" height="40"/>
+  <img src="/path/to/oracle-icon.png" alt="Oracle" width="40" height="40"/>
+  <img src="/path/to/ps-icon.png" alt="Photoshop" width="40" height="40"/>
+  <img src="/path/to/unity-icon.png" alt="Unity" width="40" height="40"/>
+  <img src="/path/to/unreal-icon.png" alt="Unreal Engine" width="40" height="40"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+### 🌐 Connect with Me:
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" />
+  <a href="https://github.com/KaveenDK"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dimantha-kaveen-a843092b5/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=61550196402141"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://x.com/kaveen_69"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@KaviYa_69"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/lab302astcipher"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://leetcode.com/u/KaveenDK/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://discord.gg/a89fFSSpzy"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/27063258/kaveen-dk-kaviya"><img src="/path/to/updated-stackoverflow-logo.png" alt="Stack Overflow" width="30" height="30"/></a>
+  <a href="https://www.instagram.com/kaveen_dk/profilecard/?igsh=aGh5c2FpdXozbHNv"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.behance.net/dimanthakaveen"><img src="https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaveenDK&show_icons=true&theme=radical" alt="KaveeN's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaveenDK&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveenDK&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaveenDK&show_icons=true&theme=radical" alt="KaveeN's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveenDK&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## ☕ Support Me
-
+### 🏆 GitHub Trophies:
 <p align="center">
-  <a href="https://www.buymeacoffee.com/vpdkkaveenp" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/kaveendk" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="Ko-fi" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=KaveenDK&theme=darkhub&column=4" alt="GitHub Trophies"/>
 </p>
+
+---
+
