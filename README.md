@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaveendk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KaveenDK?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/twitter/follow/kaveen_69?logo=twitter&style=flat-square" alt="Twitter Follow" />
+</p>
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[TicTacToe Game](https://github.com/KaveenDK/TicTacToeGame.git)**, **[AgriCraftPro](https://github.com/KaveenDK/AgriCraftPro.git)**, and **SuperMarketFX**
@@ -69,15 +75,19 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://github.com/KaveenDK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dimantha-kaveen-a843092b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/27063258/kaveen-dk-kaviya"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-  <a href="https://x.com/kaveen_69"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.youtube.com/@KaviYa_69"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/kaveen_dk/profilecard/?igsh=aGh5c2FpdXozbHNv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.behance.net/dimanthakaveen"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
-</div>
+<p align="center">
+  <a href="https://github.com/KaveenDK"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/dimantha-kaveen-a843092b5"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
+  <a href="https://x.com/kaveen_69"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61550196402141"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@KaviYa_69"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
+  <a href="https://www.hackerrank.com/profile/lab302astcipher"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/u/KaveenDK/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
+  <a href="https://discord.gg/a89fFSSpzy"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" /></a>
+  <a href="https://stackoverflow.com/users/27063258/kaveen-dk-kaviya"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="45" height="45" title="Stack Overflow" /></a>
+  <a href="https://instagram.com/kaveen_dk/profilecard/?igsh=aGh5c2FpdXozbHNv"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" /></a>
+  <a href="https://www.behance.net/dimanthakaveen"><img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" /></a>
+</p>
 
 ---
 
@@ -86,7 +96,7 @@
   <a href="https://www.buymeacoffee.com/vpdkkaveenp" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
-  <a href="https://ko-fi.com/kaveendk" target="_blank">
+  <a href="https://ko-fi.com/dimanthakaveen" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="Ko-fi" />
   </a>
 </p>
