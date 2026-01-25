@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" height="38" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dimantha-kaveen-a843092b5" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/kaveendk" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/💼%20Connect%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
   </a>
   &nbsp;&nbsp;
@@ -123,16 +123,6 @@ I’m **Dimantha Kaveen (KaveeN)**, a passionate **Software Engineering Undergra
         <a href="https://github.com/KaveenDK/SpaceShooterGame.git" target="_blank">Repo</a>
       </td>
     </tr>
-    <tr>
-      <td align="center"><b>KaveeNDK Website</b><br/>(Game)</td>
-      <td>My Personal Portfolio Website<br/><code>HTML5 Canvas</code> <code>ReactJS</code></td>
-      <td align="center">
-        <a href="https://dimantha-kaveen-portfolio.web.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Play-Now-green?style=flat-square&logo=google-play"/>
-        </a><br/>
-        <a href="https://github.com/KaveenDK/" target="_blank">Repo</a>
-      </td>
-    </tr>
   </tbody>
 </table>
 </div>
@@ -175,7 +165,7 @@ I’m **Dimantha Kaveen (KaveeN)**, a passionate **Software Engineering Undergra
 | Project | Tech Stack | Link |
 |:---|:---|:---:|
 | **TicTacToe AI** | `JavaFX` `AI Logic` | [Repo](https://github.com/KaveenDK/TicTacToeGame.git) |
-| **Space Shooter Game** | `HTML` `CSS` `JS` | [Repo](https://github.com/KaveenDK/TicTacToeGame.git) [Live](https://space-shooter-game-by-kaveen.web.app/) |
+| **Space Shooter** | `JavaScript` `HTML` `CSS` | [Repo](https://github.com/KaveenDK/SpaceShooterGame.git) | [Live](https://space-shooter-game-by-kaveen.web.app/) |
 
 </details>
 
@@ -208,7 +198,7 @@ I’m **Dimantha Kaveen (KaveeN)**, a passionate **Software Engineering Undergra
   <h3>🤝 Connect With Me</h3>
 
   <a href="https://github.com/KaveenDK" target="_blank"><img src="https://img.icons8.com/ios-filled/50/8B5CF6/github.png"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dimantha-kaveen-a843092b5" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kaveendk" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>&nbsp;&nbsp;
   <a href="https://x.com/kaveen_69" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/27063258/kaveen-dk-kaviya" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png"/></a>&nbsp;&nbsp;
   <a href="https://www.behance.net/dimanthakaveen" target="_blank"><img src="https://img.icons8.com/color/48/behance.png"/></a>
