@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://linkedin.com/in/dimantha-kaveen-a843092b5" target="_blank">
+  <a href="https://linkedin.com/in/KaveeNDK" target="_blank">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
   </a>
 
@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/KaveenDK" target="_blank"><img src="https://img.icons8.com/ios-filled/50/8B5CF6/github.png" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/dimantha-kaveen-a843092b5" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/KaveeNDK" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://x.com/kaveen_69" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://youtube.com/@KaviYa_69" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/></a>
   <a href="https://instagram.com/kaveen_dk" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/></a>
