@@ -1,6 +1,6 @@
 <!-- 🌟 CUSTOM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=250&section=header&text=Dimantha%20KaveeN%20(KaviYa)&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=250&section=header&text=Dimantha%20KaveeN%20(KaveeNDK)&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 🧠 TYPING INTRO -->
