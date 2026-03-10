@@ -135,6 +135,11 @@ I’m **Dimantha Kaveen (KaveeN)**, a passionate **Software Engineering Undergra
 <summary><b>👇 Click to Expand All 23+ Projects</b></summary>
 <br/>
 
+### 💻 Client Projects
+| Project | Description | Link |
+|:---|:---|:---:|
+| **Shutt LK** | Cinematic Events across Sri Lanka | [Live](https://shutt.lk) |
+
 ### 📱 Mobile Applications
 | Project | Tech Stack | Link |
 |:---|:---|:---:|
